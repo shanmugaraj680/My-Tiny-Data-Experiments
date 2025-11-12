@@ -1,7 +1,7 @@
 #SQL Challenge 1,
 Question: Find the Top 5 products based on average sales amount from the previous month.
 
-Dataset
+Dataset 
 | sale_id | product_name | sale_date  | quantity | total_amount |
 | ------- | ------------ | ---------- | -------- | ------------ |
 | 1       | Coffee       | 2025-10-02 | 20       | 2500.00      |
