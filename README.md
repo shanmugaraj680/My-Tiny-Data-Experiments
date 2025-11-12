@@ -15,6 +15,7 @@ Dataset
 | 9       | Milk         | 2025-10-08 | 20       | 1600.00      |
 | 10      | Yogurt       | 2025-10-17 | 15       | 2000.00      |
 
+```sql
 MySQL Query
 SELECT 
     product_name,
